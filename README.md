@@ -16,7 +16,7 @@ In this project, I worked with data from the Survey of Consumer Finances (SCF). 
 **This Dash App utilizes a Machine Learning model built with KMeans to segment customers based on various features**
 
 
-The App can be can be viewed [here](https://custsegapp.herokuapp.com/docs)
+The App can be can be viewed [here](https://custsegapp.herokuapp.com)
 
 ## Data Preparation
 
