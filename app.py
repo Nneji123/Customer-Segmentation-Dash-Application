@@ -1,6 +1,5 @@
 import pandas as pd
 import plotly.express as px
-import wqet_grader
 from dash import Input, Output, dcc, html
 from IPython.display import VimeoVideo
 from jupyter_dash import JupyterDash
