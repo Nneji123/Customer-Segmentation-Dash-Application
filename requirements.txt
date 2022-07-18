@@ -1,0 +1,8 @@
+dash==2.6.0
+ipython==8.4.0
+jupyter_dash==0.4.2
+pandas==1.4.3
+plotly==5.9.0
+scikit_learn==1.1.1
+scipy==1.8.1
+wqet_grader==0.1.23
