@@ -38,9 +38,7 @@ The Survey of Consumer Finances (SCF) is normally a triennial cross-sectional su
 
 ### Dash App Demo
 
-
-![credit](https://user-images.githubusercontent.com/101701760/174500101-d70e5ec1-bb50-4a67-be13-1cb561c9ed11.gif)
-
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/101701760/179729434-4c935131-90b4-486b-a73d-f3a220efa831.gif)
 
 ## 💻 Deploying the Application to Heroku
 Assuming you have git and heroku cli installed just carry out the following steps:
